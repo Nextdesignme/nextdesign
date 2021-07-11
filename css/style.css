@@ -4277,7 +4277,7 @@ h4 li a .fab {
   line-height: calc(30px - 12px);
   font-size:20px;
   color: #262626;
-  transition: .5s;
+  transition: 0.1s;
 }
 
 h4 li:nth-child(1) a:hover .fab {
